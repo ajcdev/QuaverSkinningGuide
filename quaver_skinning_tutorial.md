@@ -73,4 +73,6 @@
 
 > However, if you want the old default/legacy skins, you can download it here below:
 
-[Arrow Skin]()
+ - [Arrow Skin](assets/Default_Arrow_Skin_New_Theme.qs)
+ - [Bar Skin](assets/Default_Bar_Skin_New_Theme.qs)
+ - [Circle Skin](assets/Default_Circle_Skin_New_Theme.qs)
