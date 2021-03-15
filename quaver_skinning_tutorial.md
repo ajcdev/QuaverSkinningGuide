@@ -67,6 +67,7 @@
         - Arrow: `2163713057`
         - Bar: `2162713645`
         - Circle: `2163546266`
+      - Note: This is also where you can find the rest of the skins you're currently subscribed on the Steam Workshop.
 
     - You must copy these folders and paste them to your own Quaver Skin Folder in order to be able to edit because the workshop folder does not support updating local changes.
       - Quaver Skin Folder Location: `/Steam/steamapps/common/Quaver/Skins`
@@ -76,3 +77,24 @@
  - [Arrow Skin](https://github.com/chirijidev/QuaverSkinningGuide/raw/main/assets/Default_Arrow_Skin_New_Theme.qs)
  - [Bar Skin](https://github.com/chirijidev/QuaverSkinningGuide/raw/main/assets/Default_Bar_Skin_New_Theme.qs)
  - [Circle Skin](https://github.com/chirijidev/QuaverSkinningGuide/raw/main/assets/Default_Circle_Skin_New_Theme.qs)
+
+After downloading one of the old default skins, you should drag the files in the game in order to load the skins. They will be located in your local Skin folder.
+
+### Which programs should I use for making a skin?
+
+- An image-editing software(just use one of them):
+  - List of my recommendations:
+      - [Adobe Photoshop](https://www.photoshop.com/en)(paid)
+      - [GIMP](https://www.gimp.org)(free)
+      - [paint.net](https://www.getpaint.net/index.html)(free)
+      - [Photopea](https://www.photopea.com)(free)
+      - [Figma](https://www.figma.com)(free)
+
+- A text editor(you can still use Notepad, but this can help you do better for skin.ini editing.):
+  - [Notepad++](https://notepad-plus-plus.org)(free)
+  - [Sublime Text](https://www.sublimetext.com)(free)
+  - [Visual Studio Code](https://code.visualstudio.com)(free)
+
+- An audio-editing software(that is if you want to add custom SFX for your skin):
+  - [Audacity](https://www.audacityteam.org)
+  - [FL Studio](https://www.image-line.com)
