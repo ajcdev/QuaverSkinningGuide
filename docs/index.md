@@ -6,8 +6,6 @@ First and foremost, I will present you the Table of Contents of this wiki so you
 
 Also, this guide may be incomplete until I say it is. If you want to help me out and contribute to this wiki, please contact me so I can add you as one of the contributors in this repository.
 
-> Note: I will be using Adobe Photoshop and probably Figma or Adobe Illustrator in this whole skinning guide as I'm only familiar with these image editing software. But from what I know, you should create something similar from what I'm doing in my guide and it will work well on your side. If you encounter any issues, please ask help on the Discord server and people familiar with skinning will help you there.
-
 ---
 ## Table of Contents
 - [Getting Started](https://github.com/chirijidev/QuaverSkinningGuide/wiki/gettingstarted.md)
