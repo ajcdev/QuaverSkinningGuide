@@ -4,7 +4,7 @@ This repository is solely made to guide people on how to make a skin in Quaver. 
 
 First and foremost, I will present you the Table of Contents of this wiki so you would know which parts of Quaver skinning I have covered in this guide. As I have said in the README, if you have any suggestions or any issues regarding this guide, please contact me in the [official Quaver Discord Server](https://discord.gg/quaver) under the [#skinning]() channel.
 
-Also, this guide may be incomplete until I say it is. If you want to help me out and contribute to this wiki, please contact me so I can add you as one of the contributors in this repository.
+Also, this guide may be incomplete until I say it is. If you want to help me out and contribute to this guide, please contact me so I can add you as one of the contributors in this repository.
 
 ---
 ## Table of Contents
